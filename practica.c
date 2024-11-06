@@ -10,6 +10,6 @@ d = (int) ( f * i ) ;
 //tenemos un valor entero
 printf( "Resultado = %f\n", d);
 d = (int) f * i ; 
-printf( "Resul tado = %f\n", d);
+printf( "Resultado = %f\n", d);
 return 0;
 }
